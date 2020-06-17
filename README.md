@@ -1,6 +1,6 @@
 # translations
 
-[![NPM version][npm-image]][npm-url]
+[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][downloads-url] [![MIT License][license-image]][license-url]
 
 i18n-compatible package with common translations that can be used in your applications right away.
 
@@ -40,4 +40,9 @@ i18n
 
 
 [npm-url]: https://www.npmjs.com/package/@codetain/translations
-[npm-image]: https://img.shields.io/npm/v/validator.svg
+[npm-image]: https://img.shields.io/npm/v/@codetain/translations
+[downloads-url]: https://npmcharts.com/compare/@codetain/translations?minimal=true
+[npm-downloads-image]: http://img.shields.io/npm/dm/@codetain/translations.svg?style=flat
+
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
