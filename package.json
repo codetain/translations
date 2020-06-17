@@ -1,6 +1,6 @@
 {
   "name": "@codetain/translations",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "i18n-compatible package with common translations for applications.",
   "main": "index.js",
   "repository": {
