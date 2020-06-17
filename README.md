@@ -34,6 +34,10 @@ i18n
   });
 ```
 
+## Collaboration
+As we want to extend this package as much as possible, with as many languages as possible, please feel free to do pull requests with your translations.
+
+
 
 [npm-url]: https://www.npmjs.com/package/@codetain/translations
 [npm-image]: https://img.shields.io/npm/v/@codetain/translations
