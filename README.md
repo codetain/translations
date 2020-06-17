@@ -6,20 +6,16 @@ i18n-compatible package with common translations that can be used in your applic
 
 ## Installation
 
-```
-npm install @codetain/translations
-```
+`npm install @codetain/translations`
 
 or
 
-```
-yarn add @codetain/translations
-```
+`yarn add @codetain/translations`
 
 ## Usage
 You can simply import translations to your project and mix them with your current translations. When you use i18next you can pass it to resources like this:
 
-```
+```javascript
 import { en, de } from '@codetain/translations';
 
 const resources = {
