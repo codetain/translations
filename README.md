@@ -37,3 +37,7 @@ i18n
     resources
   });
 ```
+
+
+[npm-url]: https://www.npmjs.com/package/@codetain/translations
+[npm-image]: https://img.shields.io/npm/v/validator.svg

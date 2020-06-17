@@ -8,7 +8,7 @@
     "url": "git+https://github.com/codetain/translations.git"
   },
   "author": "Codetain",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/codetain/translations/issues"
   },
